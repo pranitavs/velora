@@ -1,0 +1,8 @@
+{
+  "name": "VELORA",
+  "description": "AI-Powered Personal Finance for Students and Young Adults with an editorial dark terminal aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
